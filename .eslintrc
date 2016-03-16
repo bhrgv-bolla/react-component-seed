@@ -2,8 +2,6 @@
   "extends": "airbnb",
   "globals": {
     "__ONBUILD_REACT_PERF__": true,
-    "__DEVELOPMENT__": true,
-    "__PRODUCTION": true,
     "describe": true,
     "it": true,
     "beforeEach": true,
