@@ -1,13 +1,9 @@
 {
   "name": "seed-component",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "<%= componentName %> - React component",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
-  "files": [
-    "lib",
-    "es"
-  ],
   "scripts": {
     "prepublish": "builder run build",
     "build": "builder run build",
