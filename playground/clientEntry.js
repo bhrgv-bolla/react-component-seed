@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import Playground from 'component-playground';
 import SeedComponent from '../src';
 
-const SeedlElementExample = require('raw!../src/SeedComponent.example');
+const SeedComponentExample = require('raw!../src/SeedComponent.example');
 
 const Index = () => (
   <div className="component-documentation">
-    <Playground codeText={SeedlElementExample} scope={{ React, SeedComponent }} />
+    <Playground codeText={SeedComponentExample} scope={{ React, SeedComponent }} />
   </div>
 );
 

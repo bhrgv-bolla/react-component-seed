@@ -1,6 +1,6 @@
-# Component Seed [![Build Status](https://travis-ci.org/hourliert/react-component-seed.svg?branch=develop)](https://travis-ci.org/hourliert/react-component-seed)
+# SeedComponent [![Build Status](https://travis-ci.org/hourliert/react-component-seed.svg?branch=develop)](https://travis-ci.org/hourliert/react-component-seed)
 
-Component Seed written with React.
+SeedComponent written with React.
 
 ## Getting started
 ```
