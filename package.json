@@ -1,6 +1,6 @@
 {
   "name": "SeedComponent",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SeedComponent - React component",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
