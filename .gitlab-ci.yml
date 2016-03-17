@@ -27,6 +27,6 @@ bundle:
   stage: test
   script:
     - npm install --loglevel http
-    - npm run build -- -- --release
+    - npm run build
   tags:
     - node
