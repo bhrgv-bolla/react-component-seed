@@ -4,10 +4,6 @@
   "description": "<%= componentName %> - React component",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
-  "files": [
-    "lib",
-    "es"
-  ],
   "scripts": {
     "prepublish": "builder run build",
     "build": "builder run build",
