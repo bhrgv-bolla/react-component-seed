@@ -1,6 +1,6 @@
 {
-  "name": "SeedComponent",
-  "version": "0.0.2",
+  "name": "seed-component",
+  "version": "0.0.3",
   "dependencies": {
     "abab": {
       "version": "1.0.3",
