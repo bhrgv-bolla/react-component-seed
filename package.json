@@ -1,7 +1,7 @@
 {
-  "name": "react-component-seed",
+  "name": "SeedComponent",
   "version": "0.0.0",
-  "description": "React component seed",
+  "description": "SeedComponent - React component",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
   "files": [
@@ -20,20 +20,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hourliert/react-component-seed.git"
+    "url": "git+<%= repourl %>"
   },
   "keywords": [
     "react",
     "component",
-    "seed",
-    "scaffold"
+    "<%= componentName %>",
+    "seed"
   ],
-  "author": "Thomas Hourlier <hourliert@gmail.com> (https://github.com/hourliert)",
+  "author": "<%= author %>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hourliert/react-component-seed/issues"
+    "url": "<%= repourl %>/issues"
   },
-  "homepage": "https://github.com/hourliert/react-component-seed#readme",
+  "homepage": "<%= repourl %>",
   "devDependencies": {
     "builder": "^2.9.1",
     "builder-react-comp-dev": "~0.0.5"
