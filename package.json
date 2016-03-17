@@ -1,6 +1,6 @@
 {
   "name": "SeedComponent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SeedComponent - React component",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
@@ -36,9 +36,9 @@
   "homepage": "<%= repourl %>",
   "devDependencies": {
     "builder": "^2.9.1",
-    "builder-react-comp-dev": "~0.0.5"
+    "builder-react-comp-dev": "~0.0.6"
   },
   "dependencies": {
-    "builder-react-comp": "~0.0.5"
+    "builder-react-comp": "~0.0.6"
   }
 }
