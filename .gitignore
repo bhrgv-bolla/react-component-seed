@@ -1,8 +1,10 @@
-build
+.DS_Store
 node_modules
 ncp-debug.log
 npm-debug.log
 coverage
-.DS_Store
 es
 lib
+libts
+.awcache
+typings
