@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import * as React from 'react';
+import * as ReactDOM from 'react-dom';
 import Playground from 'component-playground';
-import SeedComponent from '../src';
+import SeedComponent from '../src/index';
 
 const SeedComponentExample = require('raw!../src/SeedComponent.example');
 
@@ -12,7 +12,3 @@ const Index = () => (
 );
 
 ReactDOM.render(<Index />, document.getElementById('root'));
-
-if (__ONBUILD_REACT_PERF__) {
-  window.Perf = require('react-addons-perf');
-}
