@@ -1,3 +1,1 @@
-import SeedComponent from './SeedComponent';
-
-export default SeedComponent;
+export { default } from './SeedComponent';
