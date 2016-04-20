@@ -1,4 +1,4 @@
-# SeedComponent [![Build Status](https://travis-ci.org/hourliert/react-component-seed.svg?branch=develop)](https://travis-ci.org/hourliert/react-component-seed)
+# SeedComponent [![Build Status](https://travis-ci.org/hourliert/react-component-seed.svg?branch=master)](https://travis-ci.org/hourliert/react-component-seed)
 
 This project is a generic react component. It comes with a playground where you can test it.
 All the build process is handled by [builder-react-comp](https://github.com/hourliert/builder-react-comp).
@@ -9,14 +9,14 @@ To start the playground, simply run:
 
 ```
 npm install
-npm start 
+npm start
 ```
 
 The playground has **react-hot-reload** so you can edit your component in real time.
 
 ## Project structure
 * `./src`: Source code
-* `./src/__tests__/`: Test code 
+* `./src/__tests__/`: Test code
 * `./playground`: Playground source code
 * `./types`: Additionnal typescript definition files
 
